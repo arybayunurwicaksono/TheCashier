@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\bin\Debug\TheCashier.exe.config
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\bin\Debug\TheCashier.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\bin\Debug\TheCashier.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier_MarkupCompile.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier_MarkupCompile.lref
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.g.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.Properties.Resources.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\oktober 19 2020\TheCashier\TheCashier\obj\Debug\TheCashier.pdb
