@@ -29,7 +29,7 @@ perkalian nilai price dengan quantity yang selanjutnya akan mewakili getSubtotal
 			return subtotal;
 		}
 
-# class Calculator
+# Class Calculator
 
 Dibawah ini berfungsi sebagai penginisialisasian data dari input akan dimasukan dalam satu list yaitu listItem, serta penambahan nilai dari total jika 
 item baru diinputkan ke dalam list secara otomatis
