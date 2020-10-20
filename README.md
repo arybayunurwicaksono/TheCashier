@@ -41,6 +41,9 @@ item baru diinputkan ke dalam list secara otomatis
         {
             this.listItem = new List<Item>();
         }
+
+Disini juga mewakilkan dari single responsibility dimana suatu proses hanya mempertanggungjawabkan satu aksi yaitu
+pengambilan inputan untuk ditampilkan dalam list.
         public void addItem(Item item)
         {
             this.listItem.Add(item);
